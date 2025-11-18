@@ -1,7 +1,7 @@
 
 ##  
 <h1 align="center">Hi 👋, I'm Sadika Afrin</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">I'm a passionate and creative full-stack developer with a knack for building engaging, responsive, and user-friendly web applications. I enjoy transforming ideas into reality using code and strive to write clean, efficient, and scalable solutions.</h3>
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadika-afrin-a1655429b) 
 
